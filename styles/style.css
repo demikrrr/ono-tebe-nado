@@ -63,7 +63,7 @@
     color: #FFF; 
     background-size: 100%;
     padding: 165px 50px 50px;
-    position: relative; 
+    position: relative;
 }
 
 .overlay {
@@ -79,7 +79,7 @@
     font-weight: 700;
     letter-spacing: 30px;
     text-transform: uppercase;
-    position: relative;;
+    position: relative;
     z-index: 1;
 }
 
@@ -160,13 +160,13 @@
     margin-left: 40px;
 }
 
-.lots__card-list { 
+.lots__card-list {
     display: flex;
     align-content: space-between;
     flex-direction: row;
     gap: 25px;
     margin: 30px 0;
-    color: #FFF; 
+    color: #FFF;
 }
 
 .card {
@@ -226,7 +226,7 @@
     margin-top: 50px;
     margin-left: 40px;
     margin-right: 40px;
-    position: relative;;
+    position: relative;
     z-index: 1;
 }
 
@@ -238,7 +238,7 @@
     margin-bottom: 50px;
     margin-left: 40px;
     margin-right: 40px;
-    position: relative;;
+    position: relative;
     z-index: 1;
 }
 
@@ -262,7 +262,7 @@
 }
 
 .about__column {
-    display: flex;    
+    display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
@@ -293,7 +293,7 @@
 }
 
 .about__text {
-    display: flex;    
+    display: flex;
     flex-direction: column;
     justify-content: space-between;
     gap: 25px;
